@@ -1,4 +1,4 @@
-# Youyi & Sen: kitchen camera-motion pipeline
+# SeekAct: kitchen camera-motion pipeline
 
 This repository contains the camera-first code used to mine camera-motion
 segments from kitchen egocentric video. The accepted EPIC-KITCHENS path reads a
@@ -68,7 +68,7 @@ python -m pytest tests/test_long_camera.py tests/test_camera_quality.py \
 
 ## Provenance
 
-The source was extracted from the Youyi & Sen `lime-local` project. The
+The source was extracted from the SeekAct `lime-local` project. The
 pipeline follows the project records in the accompanying scope and long-video
 documents. Depth Anything 3, EPIC Fields, VITRA, and WiLoR remain external
 dependencies with their own licenses and release terms.
